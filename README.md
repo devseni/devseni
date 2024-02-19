@@ -5,7 +5,7 @@ A frontend developer with a keen eye for detail and a commitment to delivering h
 
 - 💻 I’m looking to collaborate on **Frontend projects**
 
-- 💬 Enthusiastic to talk about **Web & Frontend Development Technologies & Ui/Ux Design...**
+- 💬 Enthusiastic to talk about **Web & Frontend Development Technologies & UI/UX Design...**
 
 - 📫 How to reach me **dev.mohseni@gmail.com**
 
