@@ -43,7 +43,7 @@ I enjoy transforming complex business requirements into maintainable, scalable s
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,kafka,idea,docker,graphql,nodejs,expressjs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka,idea,graphql,nodejs,expressjs,nestjs" />
 </p>
 
 ### Database
